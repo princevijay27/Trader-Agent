@@ -62,3 +62,4 @@ class LearningChainedConsensusBehaviour(AbstractRoundBehaviour):
         *TokenDataCollectionRoundBehaviour.behaviours,
     }
     background_behaviours_cls = {BackgroundBehaviour}
+

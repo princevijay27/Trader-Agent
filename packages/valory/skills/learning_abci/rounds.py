@@ -209,3 +209,4 @@ class LearningAbciApp(AbciApp[Event]):
         FinishedDecisionMakingRound: set(),
         FinishedTxPreparationRound: {get_name(SynchronizedData.most_voted_tx_hash)},
     }
+

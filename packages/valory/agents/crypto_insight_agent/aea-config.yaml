@@ -239,3 +239,4 @@ models:
       response_type: list
       retries: 5
       url: https://api.coingecko.com/api/v3/coins/markets
+

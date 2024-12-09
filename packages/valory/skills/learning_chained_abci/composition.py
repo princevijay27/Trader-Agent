@@ -65,3 +65,4 @@ LearningChainedSkillAbciApp = chain(
     ),
     abci_app_transition_mapping,
 ).add_background_app(termination_config)
+

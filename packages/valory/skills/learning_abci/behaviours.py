@@ -661,3 +661,4 @@ class LearningRoundBehaviour(AbstractRoundBehaviour):
         DecisionMakingBehaviour,
         TxPreparationBehaviour,
     ]
+
